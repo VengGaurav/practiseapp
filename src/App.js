@@ -4,7 +4,6 @@ import Textform from "./components/Textform";
 import "./App.css";
 import { useState } from "react";
 import Alert from "./components/Alert";
-import { BrowserRouter, Router, Routes } from "react-router-dom";
 
 function App() {
   //Dark Mode & Light Mode
